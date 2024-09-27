@@ -5,7 +5,7 @@
 ## 🛠️ Skills and Technologies
 
 - **Programming Languages:** 
-  - 🐍 Python 
+  - Python 
   - SQL
 
 - **Data Visualization Tools:** 
