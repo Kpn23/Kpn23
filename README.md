@@ -25,8 +25,7 @@ I am currently focused on developing **ETL processes** and **machine learning ap
 
 ## 💬 Personal Touch
 
-I believe that *passion comes from mastery*, and I live by the mantra that *practice makes permanent*. When I'm not coding, you can find me exploring new technologies or engaging in data-driven discussions. 🌟
+I truly believe that **passion arises from mastery**, and I live by the saying that **practice makes permanent**. When I'm not immersed in coding, you’ll often find me exploring the latest technologies or engaging in lively discussions about data. 🌟
 
----
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paulngkp) or check out my projects on [GitHub](https://github.com/Kpn23)!
