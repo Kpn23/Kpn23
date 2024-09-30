@@ -14,10 +14,10 @@
   - 🖥️ Tkinter
 
 - **Machine Learning:** 
-  - 🤖 Experienced in applying machine learning techniques
+  - 🤖 scikit-learn
 
 - **Cloud Platforms:** 
-  - ☁️ Proficient in Azure
+  - ☁️ Azure
 
 ## 🚀 Current Projects and Interests
 
