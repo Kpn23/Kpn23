@@ -22,6 +22,12 @@
 - **front-end development**
   - Anvil
 
+- **Web Frameworks**
+  - ⚡ FastAPI
+
+- **Workflow Orchestration**
+  - 🌪️ Apache Airflow
+
 ## 🚀 Current Projects and Interests
 
 I am currently focused on developing **ETL processes** and **machine learning applications** tailored for the banking sector. I am eager to collaborate on projects that explore innovative data-driven strategies.
