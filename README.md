@@ -1,6 +1,6 @@
 ## 🌟 About Me
 
-👩‍🎓 I'm a recent university graduate with a double major in Accountancy and Information Management, currently enhancing my data skills through a bootcamp. I have a strong passion for leveraging data to drive insights and solutions, particularly in the banking industry.
+👩‍🎓 I'm a recent university graduate with a double major in Accountancy and Information Management, enhanced my data skills through a bootcamp. I have a strong passion for leveraging data to drive insights and solutions, particularly in the banking industry.
 
 ## 🛠️ Skills and Technologies
 
